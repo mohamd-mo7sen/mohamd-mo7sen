@@ -18,4 +18,4 @@ I plan to...
 ## 📊 My GitHub Stats
 If you liked my work, check out my stats!
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamd-mo7sen&show_icons=true&theme=radical)
